@@ -1,0 +1,4 @@
+# Arquivos temporários e de backup do Vim:
+*~
+*.swp
+
